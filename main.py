@@ -58,18 +58,25 @@ print(mylist[-(len(mylist))]) #10
 
 a = np.array([10,20,30,40,50])
 b = np.array([2, 3, 4, 5, 6])
+
 c = a + b
-print(c)
+print(c) #[12 23 34 45 56]
+
 c = a - b
-print(c)
+print(c) #[ 8 17 26 35 44]
+
 c = a * b
 print(c)
+
 c = a / b
 print(c)
+
 c = a * 2
 print(c)
+
 c = a * 2 + 5
 print(c)
+
 c = b ** 2
 print(c)
 
