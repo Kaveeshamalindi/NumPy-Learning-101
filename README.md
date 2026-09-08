@@ -1,6 +1,6 @@
 # 🔢 NumPy Learning 101
 
-A beginner-friendly project to learn the basics of **NumPy** in Python.
+A beginner-friendly guide to learn the basics of **NumPy** in Python.
 
 ### 📚 Topics
 
